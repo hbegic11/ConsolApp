@@ -1,0 +1,14 @@
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\bin\Debug\net9.0\KonzolnaAplikacija.exe
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\bin\Debug\net9.0\KonzolnaAplikacija.deps.json
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\bin\Debug\net9.0\KonzolnaAplikacija.runtimeconfig.json
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\bin\Debug\net9.0\KonzolnaAplikacija.dll
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\bin\Debug\net9.0\KonzolnaAplikacija.pdb
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\KonzolnaAplikacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\KonzolnaAplikacija.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\KonzolnaAplikacija.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\KonzolnaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\KonzolnaAplikacija.dll
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\refint\KonzolnaAplikacija.dll
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\KonzolnaAplikacija.pdb
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\KonzolnaAplikacija.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Projekat\KonzolnaAplikacija\obj\Debug\net9.0\ref\KonzolnaAplikacija.dll
